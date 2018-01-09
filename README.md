@@ -5,8 +5,8 @@
 			maven { url 'https://jitpack.io' }
 		}
 	}
-
 ## Step 2. Add the dependency
 	dependencies {
-	        compile 'com.github.OfficialKeen:BottomNavigation:0.0.1'
+	        compile 'com.github.OfficialKeen:Bottom-Navigation:0.0.1'
 	}
+
